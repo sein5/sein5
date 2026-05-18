@@ -1,0 +1,8 @@
+{
+  "model_name": "gemma-4-E2B-it",
+  "version": "1.0.0",
+  "format": "litertlm",
+  "download_url": "https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/resolve/main/gemma-4-E2B-it.litertlm?download=true",
+  "filesize_bytes": 4200000000, 
+  "is_active": true
+}
